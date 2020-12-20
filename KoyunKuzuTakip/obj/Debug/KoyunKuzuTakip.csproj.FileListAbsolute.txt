@@ -1,0 +1,115 @@
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AnaMenu.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe.config
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.pdb
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectGender.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.exe
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.pdb
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectAnac.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.dll
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.xml
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.ListKoyun.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.KoyunDetail.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.NewKoyun.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.AddAgirlikOlcum.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AddAsi.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.FiltreAraMenu.resources
+C:\Users\MONSTER\source\repos\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.NewAnac.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe.config
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.pdb
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.dll
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.xml
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.AddAgirlikOlcum.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AddAsi.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.FiltreAraMenu.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.NewAnac.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.NewKoyun.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AnaMenu.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.Properties.Resources.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.KoyunDetail.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.ListKoyun.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectAnac.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectGender.resources
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.GenerateResource.cache
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CoreCompileInputs.cache
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CopyComplete
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.exe
+C:\Users\Cagcali_Centric\Desktop\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.pdb
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe.config
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.pdb
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.dll
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.xml
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csprojAssemblyReference.cache
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.AddAgirlikOlcum.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AddAsi.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.FiltreAraMenu.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.NewAnac.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.NewKoyun.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AnaMenu.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.Properties.Resources.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.KoyunDetail.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.ListKoyun.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectAnac.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectGender.resources
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.GenerateResource.cache
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CoreCompileInputs.cache
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CopyComplete
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.exe
+C:\Users\cagca\Desktop\KoyunKuzuTakip_20201006\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.pdb
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe.config
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.exe
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\KoyunKuzuTakip.pdb
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.dll
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.xml
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.xml
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csprojAssemblyReference.cache
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.AddAgirlikOlcum.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AddAsi.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.FiltreAraMenu.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.NewAnac.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.NewKoyun.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.AnaMenu.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.Properties.Resources.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.KoyunDetail.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.View.ListKoyun.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectAnac.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.SelectGender.resources
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.GenerateResource.cache
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CoreCompileInputs.cache
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.csproj.CopyComplete
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.exe
+C:\Users\A.T.A\Desktop\CST YAZILIM\KoyunKuzuTakip\KoyunKuzuTakip\obj\Debug\KoyunKuzuTakip.pdb
