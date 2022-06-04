@@ -48,7 +48,11 @@ namespace KoyunKuzuTakip
             if (anacList.Text == "")
                 MessageBox.Show("Luften Anac seciniz");
             else
+            {
                 anaMenu.formInAnaPanel(new ListKoyun(anaMenu, Convert.ToInt32(anacList.Text)));
+                ListKoyun listkoyun= new ListKoyun();
+                listkoyun.anacKupeNo = Convert.ToInt32(anacList.Text);
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
